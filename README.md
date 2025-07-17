@@ -10,7 +10,7 @@
 - 🔭 Sedang PKL mengerjakan **Sistem POS Kasir & Website Portofolio**
 - 🌱 Saat ini belajar **Laravel, Tailwind, UI/UX, GitHub**
 - 📫 Email: **alfauzanadzan@email.com**
-- 📱 Instagram: [@alzan.dev](https://instagram.com/alzan.dev)
+- 📱 Instagram: [@zanajadah_.dev](https://instagram.com/zanajadah_.dev)
 
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alzan Mizam</h1>
+<h1 align="center">Hi 👋, I'm alzan</h1>
 <h3 align="center">💻 RPL Student | Web Developer | Laravel & Tailwind Enthusiast</h3>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 - 🔭 Sedang PKL mengerjakan **Sistem POS Kasir & Website Portofolio**
 - 🌱 Saat ini belajar **Laravel, Tailwind, UI/UX, GitHub**
-- 📫 Email: **alfauzanadzan@email.com**
-- 📱 Instagram: [@zanajadah_.dev](https://instagram.com/zanajadah_.dev)
+- 📫 Email: **alfauzan280907@gmauil.com**
+- 📱 Instagram: [@zanajadah_](https://instagram.com/zanajadah_)
 
 ---
 
